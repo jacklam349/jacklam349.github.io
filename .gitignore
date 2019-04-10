@@ -1,3 +1,9 @@
+# what's DS_STORE
+.DS_STORE
+
+# Photoshop file
+*.psd
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
