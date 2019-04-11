@@ -1,12 +1,14 @@
+* {
+  box-sizing: border-box
+}
 
 .container {
-  width: 1000px;
+  width: 100%;
 }
 
 .bottomnav {
   overflow: hidden;
   background-color: #333;
-  width: 1000px;
 }
 
 .bottomnav a {
